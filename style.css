@@ -102,3 +102,11 @@ h2 {
     transform: translateY(4px) translateX(4px);
     box-shadow: #6d9a9a 0px 0px 0px;
 }
+
+.enlace {
+    color:  rgb(188, 188, 188);
+}
+
+.enlace:hover {
+    color:   rgb(188, 188, 188);
+}
